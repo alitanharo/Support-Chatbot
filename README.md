@@ -1,4 +1,4 @@
-# DISE CX A Assistant
+# support Assistant
 
 A production-ready AI chatbot for the DISE CX Content Management System, powered by Microsoft Azure Foundry.
 
@@ -154,13 +154,6 @@ See [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) for more help.
 
 
 
-## Support
 
-For issues or questions:
-1. Check [TROUBLESHOOTING.md](./TROUBLESHOOTING.md)
-2. Review [SETUP-INSTRUCTIONS.md](./SETUP-INSTRUCTIONS.md)
-3. Contact your Azure administrator
-
----
 
 
