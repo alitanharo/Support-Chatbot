@@ -1,6 +1,6 @@
 # support Assistant
 
-A production-ready AI chatbot for the DISE CX Content Management System, powered by Microsoft Azure Foundry.
+A production-ready AI chatbot POC for the Content Management System, powered by Microsoft Azure Foundry.
 
 ## Features
 
