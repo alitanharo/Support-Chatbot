@@ -140,17 +140,7 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment instructions to:
 - Allow microphone permissions
 - Check browser console for errors
 
-**Conversations not saving:**
-- Check browser localStorage is enabled
-- Clear browser cache and try again
 
-See [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) for more help.
-
-## Performance
-
-- **Agent Response**: 4-26 seconds (Azure processing time)
-- **UI Rendering**: <500ms
-- **Thread Creation**: ~2-3 seconds
 
 
 
